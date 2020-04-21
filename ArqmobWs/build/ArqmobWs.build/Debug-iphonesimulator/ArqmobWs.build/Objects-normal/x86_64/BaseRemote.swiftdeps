@@ -1,0 +1,427 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConstantsStatus"
+- "ResponseError"
+- "BaseRemote"
+provides-nominal:
+- "8ArqmobWs15ConstantsStatusO"
+- "8ArqmobWs13ResponseErrorO"
+- "8ArqmobWs10BaseRemoteC"
+provides-member:
+- ["8ArqmobWs15ConstantsStatusO", ""]
+- ["8ArqmobWs13ResponseErrorO", ""]
+- ["8ArqmobWs10BaseRemoteC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "+"
+- "=="
+- !private "??"
+- !private "AF"
+- !private "AFError"
+- "Array"
+- "AssignmentPrecedence"
+- "BaseRemote"
+- !private "BooleanLiteralType"
+- "ConstantsStatus"
+- !private "ConstantsUrl"
+- !private "DataResponse"
+- "Dictionary"
+- "FloatLiteralType"
+- "HTTPHeaders"
+- !private "HTTPMethod"
+- "Int"
+- "IntegerLiteralType"
+- !private "JSONParameterEncoder"
+- "Mappable"
+- !private "NetworkState"
+- "RequestInterceptor"
+- "ResponseError"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "UnicodeScalarType"
+- !private "_findStringSwitchCase"
+- !private "print"
+- !private "~="
+depends-member:
+- !private ["9Alamofire7AFErrorO", "localizedDescription"]
+- !private ["8ArqmobWs10BaseRemoteC", "AF"]
+- !private ["8ArqmobWs10BaseRemoteC", "AFError"]
+- ["8ArqmobWs10BaseRemoteC", "Array"]
+- ["8ArqmobWs10BaseRemoteC", "ConstantsStatus"]
+- !private ["8ArqmobWs10BaseRemoteC", "ConstantsUrl"]
+- !private ["8ArqmobWs10BaseRemoteC", "DataResponse"]
+- ["8ArqmobWs10BaseRemoteC", "Dictionary"]
+- ["8ArqmobWs10BaseRemoteC", "HTTPHeaders"]
+- !private ["8ArqmobWs10BaseRemoteC", "HTTPMethod"]
+- ["8ArqmobWs10BaseRemoteC", "Int"]
+- !private ["8ArqmobWs10BaseRemoteC", "JSONParameterEncoder"]
+- ["8ArqmobWs10BaseRemoteC", "Mappable"]
+- !private ["8ArqmobWs10BaseRemoteC", "NetworkState"]
+- ["8ArqmobWs10BaseRemoteC", "RequestInterceptor"]
+- ["8ArqmobWs10BaseRemoteC", "String"]
+- !private ["8ArqmobWs10BaseRemoteC", "concatParameters"]
+- ["8ArqmobWs10BaseRemoteC", "deinit"]
+- ["8ArqmobWs10BaseRemoteC", "getArrayObjects"]
+- ["8ArqmobWs10BaseRemoteC", "getHeaders"]
+- ["8ArqmobWs10BaseRemoteC", "getObject"]
+- !private ["8ArqmobWs10BaseRemoteC", "getStatusResponse"]
+- ["8ArqmobWs10BaseRemoteC", "init"]
+- !private ["8ArqmobWs10BaseRemoteC", "print"]
+- ["8ArqmobWs10BaseRemoteC", "sendObjectToServer"]
+- !private ["SK", "addingPercentEncoding"]
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "SENDEGAL_HEADER_API_KEY"]
+- !private ["s7CVarArgP", "SENDEGAL_HEADER_API_VALUE"]
+- !private ["s7CVarArgP", "addingPercentEncoding"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "statusCode"]
+- !private ["10Foundation12CharacterSetV", "urlHostAllowed"]
+- !private ["Sl", "addingPercentEncoding"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "addingPercentEncoding"]
+- !private ["SL", "init"]
+- ["8ArqmobWs15ConstantsStatusO", "=="]
+- ["8ArqmobWs15ConstantsStatusO", "RawValue"]
+- ["8ArqmobWs15ConstantsStatusO", "_Default_RawValue"]
+- ["8ArqmobWs15ConstantsStatusO", "_rawHashValue"]
+- ["8ArqmobWs15ConstantsStatusO", "deinit"]
+- ["8ArqmobWs15ConstantsStatusO", "fail"]
+- ["8ArqmobWs15ConstantsStatusO", "hash"]
+- ["8ArqmobWs15ConstantsStatusO", "hashValue"]
+- ["8ArqmobWs15ConstantsStatusO", "init"]
+- ["8ArqmobWs15ConstantsStatusO", "notConnection"]
+- ["8ArqmobWs15ConstantsStatusO", "notFound"]
+- ["8ArqmobWs15ConstantsStatusO", "ok"]
+- ["8ArqmobWs15ConstantsStatusO", "rawValue"]
+- ["8ArqmobWs15ConstantsStatusO", "unauthorized"]
+- !private ["8ArqmobWs12ConstantsUrlC", "SENDEGAL_HEADER_API_KEY"]
+- !private ["8ArqmobWs12ConstantsUrlC", "SENDEGAL_HEADER_API_VALUE"]
+- !private ["s28CustomDebugStringConvertibleP", "SENDEGAL_HEADER_API_KEY"]
+- !private ["s28CustomDebugStringConvertibleP", "SENDEGAL_HEADER_API_VALUE"]
+- !private ["s28CustomDebugStringConvertibleP", "addingPercentEncoding"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "response"]
+- !private ["s28CustomDebugStringConvertibleP", "result"]
+- !private ["s28CustomDebugStringConvertibleP", "statusCode"]
+- !private ["s28CustomDebugStringConvertibleP", "urlHostAllowed"]
+- !private ["s17CustomReflectableP", "addingPercentEncoding"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "SENDEGAL_HEADER_API_KEY"]
+- !private ["s23CustomStringConvertibleP", "SENDEGAL_HEADER_API_VALUE"]
+- !private ["s23CustomStringConvertibleP", "addingPercentEncoding"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "response"]
+- !private ["s23CustomStringConvertibleP", "responseArray"]
+- !private ["s23CustomStringConvertibleP", "responseObject"]
+- !private ["s23CustomStringConvertibleP", "result"]
+- !private ["s23CustomStringConvertibleP", "statusCode"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "urlHostAllowed"]
+- !private ["s23CustomStringConvertibleP", "validate"]
+- !private ["9Alamofire11DataRequestC", "responseArray"]
+- !private ["9Alamofire11DataRequestC", "responseObject"]
+- !private ["9Alamofire11DataRequestC", "validate"]
+- !private ["9Alamofire12DataResponseV", "response"]
+- !private ["9Alamofire12DataResponseV", "result"]
+- !private ["Se", "addingPercentEncoding"]
+- !private ["Se", "init"]
+- !private ["Se", "urlHostAllowed"]
+- !private ["SE", "addingPercentEncoding"]
+- !private ["SE", "init"]
+- !private ["SE", "urlHostAllowed"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- !private ["SQ", "SENDEGAL_HEADER_API_KEY"]
+- !private ["SQ", "SENDEGAL_HEADER_API_VALUE"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "addingPercentEncoding"]
+- !private ["SQ", "fail"]
+- !private ["SQ", "failure"]
+- !private ["SQ", "get"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- !private ["SQ", "notConnection"]
+- !private ["SQ", "notFound"]
+- !private ["SQ", "ok"]
+- !private ["SQ", "post"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "responseArray"]
+- !private ["SQ", "responseObject"]
+- !private ["SQ", "statusCode"]
+- !private ["SQ", "success"]
+- !private ["SQ", "unauthorized"]
+- !private ["SQ", "urlHostAllowed"]
+- !private ["SQ", "validate"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "urlHostAllowed"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "addingPercentEncoding"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "addingPercentEncoding"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "addingPercentEncoding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["9Alamofire11HTTPHeadersV", "init"]
+- !private ["9Alamofire11HTTPHeadersV", "subscript"]
+- !private ["9Alamofire10HTTPMethodV", "get"]
+- !private ["9Alamofire10HTTPMethodV", "init"]
+- !private ["9Alamofire10HTTPMethodV", "post"]
+- !private ["9Alamofire10HTTPMethodV", "rawValue"]
+- !private ["So17NSHTTPURLResponseC", "statusCode"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- !private ["SH", "SENDEGAL_HEADER_API_KEY"]
+- !private ["SH", "SENDEGAL_HEADER_API_VALUE"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "addingPercentEncoding"]
+- !private ["SH", "fail"]
+- !private ["SH", "failure"]
+- !private ["SH", "get"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- !private ["SH", "notConnection"]
+- !private ["SH", "notFound"]
+- !private ["SH", "ok"]
+- !private ["SH", "post"]
+- ["SH", "rawValue"]
+- !private ["SH", "responseArray"]
+- !private ["SH", "responseObject"]
+- !private ["SH", "statusCode"]
+- !private ["SH", "success"]
+- !private ["SH", "unauthorized"]
+- !private ["SH", "urlHostAllowed"]
+- !private ["SH", "validate"]
+- !private ["9Alamofire20JSONParameterEncoderC", "default"]
+- !private ["10Foundation14LocalizedErrorP", "localizedDescription"]
+- !private ["s25LosslessStringConvertibleP", "addingPercentEncoding"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "addingPercentEncoding"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "addingPercentEncoding"]
+- !private ["So8NSCodingP", "statusCode"]
+- !private ["So9NSCopyingP", "addingPercentEncoding"]
+- !private ["So9NSCopyingP", "statusCode"]
+- !private ["So21NSItemProviderReadingP", "addingPercentEncoding"]
+- !private ["So21NSItemProviderWritingP", "addingPercentEncoding"]
+- !private ["So16NSMutableCopyingP", "addingPercentEncoding"]
+- !private ["So8NSObjectC", "SENDEGAL_HEADER_API_KEY"]
+- !private ["So8NSObjectC", "SENDEGAL_HEADER_API_VALUE"]
+- !private ["So8NSObjectC", "addingPercentEncoding"]
+- !private ["So8NSObjectC", "statusCode"]
+- !private ["So8NSObjectP", "SENDEGAL_HEADER_API_KEY"]
+- !private ["So8NSObjectP", "SENDEGAL_HEADER_API_VALUE"]
+- !private ["So8NSObjectP", "addingPercentEncoding"]
+- !private ["So8NSObjectP", "statusCode"]
+- !private ["So14NSSecureCodingP", "addingPercentEncoding"]
+- !private ["So14NSSecureCodingP", "statusCode"]
+- !private ["So8NSStringC", "addingPercentEncoding"]
+- !private ["8ArqmobWs12NetworkStateC", "isConnected"]
+- !private ["9Alamofire16ParameterEncoderP", "default"]
+- !private ["Sm", "addingPercentEncoding"]
+- !private ["Sm", "init"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- !private ["SY", "fail"]
+- !private ["SY", "get"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- !private ["SY", "notConnection"]
+- !private ["SY", "notFound"]
+- !private ["SY", "ok"]
+- !private ["SY", "post"]
+- ["SY", "rawValue"]
+- !private ["SY", "unauthorized"]
+- !private ["10Foundation20ReferenceConvertibleP", "urlHostAllowed"]
+- !private ["9Alamofire7RequestC", "responseArray"]
+- !private ["9Alamofire7RequestC", "responseObject"]
+- !private ["9Alamofire7RequestC", "validate"]
+- !private ["9Alamofire15RequestDelegateP", "request"]
+- ["8ArqmobWs13ResponseErrorO", "=="]
+- ["8ArqmobWs13ResponseErrorO", "BAD_REQUEST"]
+- ["8ArqmobWs13ResponseErrorO", "FORBIDDEN"]
+- ["8ArqmobWs13ResponseErrorO", "INTERNAL_ERROR"]
+- ["8ArqmobWs13ResponseErrorO", "RawValue"]
+- ["8ArqmobWs13ResponseErrorO", "UNAUTHORIZED"]
+- ["8ArqmobWs13ResponseErrorO", "_Default_RawValue"]
+- !private ["8ArqmobWs13ResponseErrorO", "_findStringSwitchCase"]
+- ["8ArqmobWs13ResponseErrorO", "_rawHashValue"]
+- ["8ArqmobWs13ResponseErrorO", "deinit"]
+- ["8ArqmobWs13ResponseErrorO", "hash"]
+- ["8ArqmobWs13ResponseErrorO", "hashValue"]
+- ["8ArqmobWs13ResponseErrorO", "init"]
+- ["8ArqmobWs13ResponseErrorO", "rawValue"]
+- !private ["s6ResultO", "failure"]
+- !private ["s6ResultO", "success"]
+- !private ["ST", "addingPercentEncoding"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["9Alamofire7SessionC", "request"]
+- !private ["9Alamofire20SessionStateProviderP", "request"]
+- !private ["s10SetAlgebraP", "urlHostAllowed"]
+- !private ["SS", "addingPercentEncoding"]
+- !private ["SS", "init"]
+- !private ["Sy", "addingPercentEncoding"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "addingPercentEncoding"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "addingPercentEncoding"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "addingPercentEncoding"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["So13NSURLResponseC", "statusCode"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "addingPercentEncoding"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "addingPercentEncoding"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "addingPercentEncoding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "addingPercentEncoding"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "addingPercentEncoding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SENDEGAL_HEADER_API_KEY"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SENDEGAL_HEADER_API_VALUE"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addingPercentEncoding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusCode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SENDEGAL_HEADER_API_KEY"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SENDEGAL_HEADER_API_VALUE"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addingPercentEncoding"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "statusCode"]
+- !private ["s21_ObjectiveCBridgeableP", "addingPercentEncoding"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "urlHostAllowed"]
+depends-nominal:
+- !private "9Alamofire7AFErrorO"
+- "8ArqmobWs10BaseRemoteC"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "10Foundation12CharacterSetV"
+- !private "Sl"
+- !private "SL"
+- "8ArqmobWs15ConstantsStatusO"
+- !private "8ArqmobWs12ConstantsUrlC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "9Alamofire11DataRequestC"
+- !private "9Alamofire12DataResponseV"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9Alamofire11HTTPHeadersV"
+- !private "9Alamofire10HTTPMethodV"
+- !private "So17NSHTTPURLResponseC"
+- "SH"
+- !private "9Alamofire20JSONParameterEncoderC"
+- !private "10Foundation14LocalizedErrorP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "8ArqmobWs12NetworkStateC"
+- !private "9Alamofire16ParameterEncoderP"
+- !private "Sm"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "9Alamofire7RequestC"
+- !private "9Alamofire15RequestDelegateP"
+- "8ArqmobWs13ResponseErrorO"
+- !private "s6ResultO"
+- !private "ST"
+- !private "9Alamofire7SessionC"
+- !private "9Alamofire20SessionStateProviderP"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "9Alamofire14URLConvertibleP"
+- !private "So13NSURLResponseC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArqmobWs.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/build/ArqmobWs.build/Debug-iphonesimulator/ArqmobWs.build/unextended-module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "938fe43e283aaf99abb11253303c7ccb"

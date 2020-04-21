@@ -1,0 +1,156 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RouteProfile"
+provides-nominal:
+- "8ArqmobWs12RouteProfileC"
+provides-member:
+- ["8ArqmobWs12RouteProfileC", ""]
+provides-dynamic-lookup:
+- "latitud"
+- "longitud"
+- "mapping"
+- "z"
+depends-top-level:
+- !private "<-"
+- "Map"
+- "Mappable"
+- "NSObject"
+- "RouteProfile"
+- "String"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+depends-member:
+- ["12ObjectMapper12BaseMappableP", ""]
+- ["12ObjectMapper12BaseMappableP", "init"]
+- !private ["12ObjectMapper12BaseMappableP", "latitud"]
+- !private ["12ObjectMapper12BaseMappableP", "longitud"]
+- ["12ObjectMapper12BaseMappableP", "mapping"]
+- !private ["12ObjectMapper12BaseMappableP", "z"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "latitud"]
+- !private ["s7CVarArgP", "longitud"]
+- ["s7CVarArgP", "mapping"]
+- !private ["s7CVarArgP", "z"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "latitud"]
+- !private ["s28CustomDebugStringConvertibleP", "longitud"]
+- ["s28CustomDebugStringConvertibleP", "mapping"]
+- !private ["s28CustomDebugStringConvertibleP", "z"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "latitud"]
+- !private ["s23CustomStringConvertibleP", "longitud"]
+- ["s23CustomStringConvertibleP", "mapping"]
+- !private ["s23CustomStringConvertibleP", "z"]
+- ["SQ", ""]
+- ["SQ", "init"]
+- !private ["SQ", "latitud"]
+- !private ["SQ", "longitud"]
+- ["SQ", "mapping"]
+- !private ["SQ", "z"]
+- ["SH", ""]
+- ["SH", "init"]
+- !private ["SH", "latitud"]
+- !private ["SH", "longitud"]
+- ["SH", "mapping"]
+- !private ["SH", "z"]
+- !private ["12ObjectMapper3MapC", "subscript"]
+- ["12ObjectMapper8MappableP", ""]
+- ["12ObjectMapper8MappableP", "init"]
+- !private ["12ObjectMapper8MappableP", "latitud"]
+- !private ["12ObjectMapper8MappableP", "longitud"]
+- ["12ObjectMapper8MappableP", "mapping"]
+- !private ["12ObjectMapper8MappableP", "z"]
+- ["So8NSObjectC", "Map"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "latitud"]
+- ["So8NSObjectC", "longitud"]
+- ["So8NSObjectC", "mapping"]
+- ["So8NSObjectC", "z"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "latitud"]
+- !private ["So8NSObjectP", "longitud"]
+- ["So8NSObjectP", "mapping"]
+- !private ["So8NSObjectP", "z"]
+- ["8ArqmobWs12RouteProfileC", "Map"]
+- ["8ArqmobWs12RouteProfileC", "String"]
+- ["8ArqmobWs12RouteProfileC", "deinit"]
+- ["8ArqmobWs12RouteProfileC", "init"]
+- ["8ArqmobWs12RouteProfileC", "latitud"]
+- ["8ArqmobWs12RouteProfileC", "longitud"]
+- ["8ArqmobWs12RouteProfileC", "mapping"]
+- ["8ArqmobWs12RouteProfileC", "z"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "latitud"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "longitud"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "mapping"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "z"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "latitud"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "longitud"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mapping"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "z"]
+depends-nominal:
+- "12ObjectMapper12BaseMappableP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "12ObjectMapper3MapC"
+- "12ObjectMapper8MappableP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "8ArqmobWs12RouteProfileC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArqmobWs.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/build/ArqmobWs.build/Debug-iphonesimulator/ArqmobWs.build/unextended-module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a1170aaea4e7f9bf633e159cb911353c"

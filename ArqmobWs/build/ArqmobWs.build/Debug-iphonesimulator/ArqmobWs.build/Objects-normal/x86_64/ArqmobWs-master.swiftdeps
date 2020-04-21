@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "a6e394a233a7b341157765b80de1a74b"
+build_time: [1587458400, 410317000]
+inputs:
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/Photo.swift": [1587454482, 186399752]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/Unevenness.swift": [1587454482, 102532993]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Remote/BaseRemote.swift": [1587452899, 121588669]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/RouteProfile.swift": [1587454482, 122558312]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Service/ArqmobService.swift": [1587458382, 872634113]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/Route.swift": [1587454482, 136924935]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Dto/RouteResponse.swift": [1587386884, 370472347]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/Point.swift": [1587457858, 847837886]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/RouteDetail.swift": [1587454482, 179720676]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Remote/NetworkState.swift": [1587452734, 957012009]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Remote/ConstantsUrl.swift": [1587454482, 77220112]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/Family.swift": [1587457967, 555172855]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/Place.swift": [1587457972, 844502289]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/Coordinates.swift": [1587457858, 826096884]
+  "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/Data/Entity/Type.swift": [1587454482, 155420926]

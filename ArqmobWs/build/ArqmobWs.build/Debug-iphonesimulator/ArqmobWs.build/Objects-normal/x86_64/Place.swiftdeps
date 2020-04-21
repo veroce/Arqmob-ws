@@ -1,0 +1,463 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Place"
+provides-nominal:
+- "8ArqmobWs5PlaceC"
+provides-member:
+- ["8ArqmobWs5PlaceC", ""]
+provides-dynamic-lookup:
+- "calidad"
+- "calle"
+- "categoria"
+- "codigoPostal"
+- "descripcion"
+- "distancia"
+- "email"
+- "fax"
+- "geodestino"
+- "id"
+- "imagenes"
+- "latitud"
+- "longitud"
+- "lugar"
+- "mapping"
+- "municipio"
+- "nombre"
+- "numero"
+- "parroquia"
+- "provincia"
+- "subgeodestino"
+- "telefono"
+- "tipo"
+- "uid"
+- "web"
+- "webTurgalicia"
+depends-top-level:
+- !private "<-"
+- "Array"
+- "Double"
+- "Family"
+- "Int64"
+- "Map"
+- "Mappable"
+- "NSObject"
+- "Photo"
+- "Place"
+- "String"
+- !private "StringLiteralType"
+- "Type"
+depends-member:
+- ["12ObjectMapper12BaseMappableP", ""]
+- !private ["12ObjectMapper12BaseMappableP", "calidad"]
+- !private ["12ObjectMapper12BaseMappableP", "calle"]
+- !private ["12ObjectMapper12BaseMappableP", "categoria"]
+- !private ["12ObjectMapper12BaseMappableP", "codigoPostal"]
+- !private ["12ObjectMapper12BaseMappableP", "descripcion"]
+- !private ["12ObjectMapper12BaseMappableP", "distancia"]
+- !private ["12ObjectMapper12BaseMappableP", "email"]
+- !private ["12ObjectMapper12BaseMappableP", "fax"]
+- !private ["12ObjectMapper12BaseMappableP", "geodestino"]
+- !private ["12ObjectMapper12BaseMappableP", "id"]
+- !private ["12ObjectMapper12BaseMappableP", "imagenes"]
+- ["12ObjectMapper12BaseMappableP", "init"]
+- !private ["12ObjectMapper12BaseMappableP", "latitud"]
+- !private ["12ObjectMapper12BaseMappableP", "longitud"]
+- !private ["12ObjectMapper12BaseMappableP", "lugar"]
+- ["12ObjectMapper12BaseMappableP", "mapping"]
+- !private ["12ObjectMapper12BaseMappableP", "municipio"]
+- !private ["12ObjectMapper12BaseMappableP", "nombre"]
+- !private ["12ObjectMapper12BaseMappableP", "numero"]
+- !private ["12ObjectMapper12BaseMappableP", "parroquia"]
+- !private ["12ObjectMapper12BaseMappableP", "provincia"]
+- !private ["12ObjectMapper12BaseMappableP", "subgeodestino"]
+- !private ["12ObjectMapper12BaseMappableP", "telefono"]
+- !private ["12ObjectMapper12BaseMappableP", "tipo"]
+- !private ["12ObjectMapper12BaseMappableP", "uid"]
+- !private ["12ObjectMapper12BaseMappableP", "web"]
+- !private ["12ObjectMapper12BaseMappableP", "webTurgalicia"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "calidad"]
+- !private ["s7CVarArgP", "calle"]
+- !private ["s7CVarArgP", "categoria"]
+- !private ["s7CVarArgP", "codigoPostal"]
+- !private ["s7CVarArgP", "descripcion"]
+- !private ["s7CVarArgP", "distancia"]
+- !private ["s7CVarArgP", "email"]
+- !private ["s7CVarArgP", "fax"]
+- !private ["s7CVarArgP", "geodestino"]
+- !private ["s7CVarArgP", "id"]
+- !private ["s7CVarArgP", "imagenes"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "latitud"]
+- !private ["s7CVarArgP", "longitud"]
+- !private ["s7CVarArgP", "lugar"]
+- ["s7CVarArgP", "mapping"]
+- !private ["s7CVarArgP", "municipio"]
+- !private ["s7CVarArgP", "nombre"]
+- !private ["s7CVarArgP", "numero"]
+- !private ["s7CVarArgP", "parroquia"]
+- !private ["s7CVarArgP", "provincia"]
+- !private ["s7CVarArgP", "subgeodestino"]
+- !private ["s7CVarArgP", "telefono"]
+- !private ["s7CVarArgP", "tipo"]
+- !private ["s7CVarArgP", "uid"]
+- !private ["s7CVarArgP", "web"]
+- !private ["s7CVarArgP", "webTurgalicia"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "calidad"]
+- !private ["s28CustomDebugStringConvertibleP", "calle"]
+- !private ["s28CustomDebugStringConvertibleP", "categoria"]
+- !private ["s28CustomDebugStringConvertibleP", "codigoPostal"]
+- !private ["s28CustomDebugStringConvertibleP", "descripcion"]
+- !private ["s28CustomDebugStringConvertibleP", "distancia"]
+- !private ["s28CustomDebugStringConvertibleP", "email"]
+- !private ["s28CustomDebugStringConvertibleP", "fax"]
+- !private ["s28CustomDebugStringConvertibleP", "geodestino"]
+- !private ["s28CustomDebugStringConvertibleP", "id"]
+- !private ["s28CustomDebugStringConvertibleP", "imagenes"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "latitud"]
+- !private ["s28CustomDebugStringConvertibleP", "longitud"]
+- !private ["s28CustomDebugStringConvertibleP", "lugar"]
+- ["s28CustomDebugStringConvertibleP", "mapping"]
+- !private ["s28CustomDebugStringConvertibleP", "municipio"]
+- !private ["s28CustomDebugStringConvertibleP", "nombre"]
+- !private ["s28CustomDebugStringConvertibleP", "numero"]
+- !private ["s28CustomDebugStringConvertibleP", "parroquia"]
+- !private ["s28CustomDebugStringConvertibleP", "provincia"]
+- !private ["s28CustomDebugStringConvertibleP", "subgeodestino"]
+- !private ["s28CustomDebugStringConvertibleP", "telefono"]
+- !private ["s28CustomDebugStringConvertibleP", "tipo"]
+- !private ["s28CustomDebugStringConvertibleP", "uid"]
+- !private ["s28CustomDebugStringConvertibleP", "web"]
+- !private ["s28CustomDebugStringConvertibleP", "webTurgalicia"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "calidad"]
+- !private ["s23CustomStringConvertibleP", "calle"]
+- !private ["s23CustomStringConvertibleP", "categoria"]
+- !private ["s23CustomStringConvertibleP", "codigoPostal"]
+- !private ["s23CustomStringConvertibleP", "descripcion"]
+- !private ["s23CustomStringConvertibleP", "distancia"]
+- !private ["s23CustomStringConvertibleP", "email"]
+- !private ["s23CustomStringConvertibleP", "fax"]
+- !private ["s23CustomStringConvertibleP", "geodestino"]
+- !private ["s23CustomStringConvertibleP", "id"]
+- !private ["s23CustomStringConvertibleP", "imagenes"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "latitud"]
+- !private ["s23CustomStringConvertibleP", "longitud"]
+- !private ["s23CustomStringConvertibleP", "lugar"]
+- ["s23CustomStringConvertibleP", "mapping"]
+- !private ["s23CustomStringConvertibleP", "municipio"]
+- !private ["s23CustomStringConvertibleP", "nombre"]
+- !private ["s23CustomStringConvertibleP", "numero"]
+- !private ["s23CustomStringConvertibleP", "parroquia"]
+- !private ["s23CustomStringConvertibleP", "provincia"]
+- !private ["s23CustomStringConvertibleP", "subgeodestino"]
+- !private ["s23CustomStringConvertibleP", "telefono"]
+- !private ["s23CustomStringConvertibleP", "tipo"]
+- !private ["s23CustomStringConvertibleP", "uid"]
+- !private ["s23CustomStringConvertibleP", "web"]
+- !private ["s23CustomStringConvertibleP", "webTurgalicia"]
+- ["SQ", ""]
+- !private ["SQ", "calidad"]
+- !private ["SQ", "calle"]
+- !private ["SQ", "categoria"]
+- !private ["SQ", "codigoPostal"]
+- !private ["SQ", "descripcion"]
+- !private ["SQ", "distancia"]
+- !private ["SQ", "email"]
+- !private ["SQ", "fax"]
+- !private ["SQ", "geodestino"]
+- !private ["SQ", "id"]
+- !private ["SQ", "imagenes"]
+- ["SQ", "init"]
+- !private ["SQ", "latitud"]
+- !private ["SQ", "longitud"]
+- !private ["SQ", "lugar"]
+- ["SQ", "mapping"]
+- !private ["SQ", "municipio"]
+- !private ["SQ", "nombre"]
+- !private ["SQ", "numero"]
+- !private ["SQ", "parroquia"]
+- !private ["SQ", "provincia"]
+- !private ["SQ", "subgeodestino"]
+- !private ["SQ", "telefono"]
+- !private ["SQ", "tipo"]
+- !private ["SQ", "uid"]
+- !private ["SQ", "web"]
+- !private ["SQ", "webTurgalicia"]
+- !private ["8ArqmobWs6FamilyC", "deinit"]
+- ["SH", ""]
+- !private ["SH", "calidad"]
+- !private ["SH", "calle"]
+- !private ["SH", "categoria"]
+- !private ["SH", "codigoPostal"]
+- !private ["SH", "descripcion"]
+- !private ["SH", "distancia"]
+- !private ["SH", "email"]
+- !private ["SH", "fax"]
+- !private ["SH", "geodestino"]
+- !private ["SH", "id"]
+- !private ["SH", "imagenes"]
+- ["SH", "init"]
+- !private ["SH", "latitud"]
+- !private ["SH", "longitud"]
+- !private ["SH", "lugar"]
+- ["SH", "mapping"]
+- !private ["SH", "municipio"]
+- !private ["SH", "nombre"]
+- !private ["SH", "numero"]
+- !private ["SH", "parroquia"]
+- !private ["SH", "provincia"]
+- !private ["SH", "subgeodestino"]
+- !private ["SH", "telefono"]
+- !private ["SH", "tipo"]
+- !private ["SH", "uid"]
+- !private ["SH", "web"]
+- !private ["SH", "webTurgalicia"]
+- !private ["12ObjectMapper3MapC", "subscript"]
+- ["12ObjectMapper8MappableP", ""]
+- !private ["12ObjectMapper8MappableP", "calidad"]
+- !private ["12ObjectMapper8MappableP", "calle"]
+- !private ["12ObjectMapper8MappableP", "categoria"]
+- !private ["12ObjectMapper8MappableP", "codigoPostal"]
+- !private ["12ObjectMapper8MappableP", "descripcion"]
+- !private ["12ObjectMapper8MappableP", "distancia"]
+- !private ["12ObjectMapper8MappableP", "email"]
+- !private ["12ObjectMapper8MappableP", "fax"]
+- !private ["12ObjectMapper8MappableP", "geodestino"]
+- !private ["12ObjectMapper8MappableP", "id"]
+- !private ["12ObjectMapper8MappableP", "imagenes"]
+- ["12ObjectMapper8MappableP", "init"]
+- !private ["12ObjectMapper8MappableP", "latitud"]
+- !private ["12ObjectMapper8MappableP", "longitud"]
+- !private ["12ObjectMapper8MappableP", "lugar"]
+- ["12ObjectMapper8MappableP", "mapping"]
+- !private ["12ObjectMapper8MappableP", "municipio"]
+- !private ["12ObjectMapper8MappableP", "nombre"]
+- !private ["12ObjectMapper8MappableP", "numero"]
+- !private ["12ObjectMapper8MappableP", "parroquia"]
+- !private ["12ObjectMapper8MappableP", "provincia"]
+- !private ["12ObjectMapper8MappableP", "subgeodestino"]
+- !private ["12ObjectMapper8MappableP", "telefono"]
+- !private ["12ObjectMapper8MappableP", "tipo"]
+- !private ["12ObjectMapper8MappableP", "uid"]
+- !private ["12ObjectMapper8MappableP", "web"]
+- !private ["12ObjectMapper8MappableP", "webTurgalicia"]
+- ["So8NSObjectC", "Array"]
+- ["So8NSObjectC", "Double"]
+- ["So8NSObjectC", "Family"]
+- ["So8NSObjectC", "Int64"]
+- ["So8NSObjectC", "Map"]
+- ["So8NSObjectC", "Photo"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "Type"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "calidad"]
+- ["So8NSObjectC", "calle"]
+- ["So8NSObjectC", "categoria"]
+- ["So8NSObjectC", "codigoPostal"]
+- ["So8NSObjectC", "descripcion"]
+- ["So8NSObjectC", "distancia"]
+- ["So8NSObjectC", "email"]
+- ["So8NSObjectC", "fax"]
+- ["So8NSObjectC", "geodestino"]
+- ["So8NSObjectC", "id"]
+- ["So8NSObjectC", "imagenes"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "latitud"]
+- ["So8NSObjectC", "longitud"]
+- ["So8NSObjectC", "lugar"]
+- ["So8NSObjectC", "mapping"]
+- ["So8NSObjectC", "municipio"]
+- ["So8NSObjectC", "nombre"]
+- ["So8NSObjectC", "numero"]
+- ["So8NSObjectC", "parroquia"]
+- ["So8NSObjectC", "provincia"]
+- ["So8NSObjectC", "subgeodestino"]
+- ["So8NSObjectC", "telefono"]
+- ["So8NSObjectC", "tipo"]
+- ["So8NSObjectC", "uid"]
+- ["So8NSObjectC", "web"]
+- ["So8NSObjectC", "webTurgalicia"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "calidad"]
+- !private ["So8NSObjectP", "calle"]
+- !private ["So8NSObjectP", "categoria"]
+- !private ["So8NSObjectP", "codigoPostal"]
+- !private ["So8NSObjectP", "descripcion"]
+- !private ["So8NSObjectP", "distancia"]
+- !private ["So8NSObjectP", "email"]
+- !private ["So8NSObjectP", "fax"]
+- !private ["So8NSObjectP", "geodestino"]
+- !private ["So8NSObjectP", "id"]
+- !private ["So8NSObjectP", "imagenes"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "latitud"]
+- !private ["So8NSObjectP", "longitud"]
+- !private ["So8NSObjectP", "lugar"]
+- ["So8NSObjectP", "mapping"]
+- !private ["So8NSObjectP", "municipio"]
+- !private ["So8NSObjectP", "nombre"]
+- !private ["So8NSObjectP", "numero"]
+- !private ["So8NSObjectP", "parroquia"]
+- !private ["So8NSObjectP", "provincia"]
+- !private ["So8NSObjectP", "subgeodestino"]
+- !private ["So8NSObjectP", "telefono"]
+- !private ["So8NSObjectP", "tipo"]
+- !private ["So8NSObjectP", "uid"]
+- !private ["So8NSObjectP", "web"]
+- !private ["So8NSObjectP", "webTurgalicia"]
+- ["8ArqmobWs5PlaceC", "Array"]
+- ["8ArqmobWs5PlaceC", "Double"]
+- ["8ArqmobWs5PlaceC", "Family"]
+- ["8ArqmobWs5PlaceC", "Int64"]
+- ["8ArqmobWs5PlaceC", "Map"]
+- ["8ArqmobWs5PlaceC", "Photo"]
+- ["8ArqmobWs5PlaceC", "String"]
+- ["8ArqmobWs5PlaceC", "Type"]
+- ["8ArqmobWs5PlaceC", "calidad"]
+- ["8ArqmobWs5PlaceC", "calle"]
+- ["8ArqmobWs5PlaceC", "categoria"]
+- ["8ArqmobWs5PlaceC", "codigoPostal"]
+- ["8ArqmobWs5PlaceC", "deinit"]
+- ["8ArqmobWs5PlaceC", "descripcion"]
+- ["8ArqmobWs5PlaceC", "distancia"]
+- ["8ArqmobWs5PlaceC", "email"]
+- ["8ArqmobWs5PlaceC", "fax"]
+- ["8ArqmobWs5PlaceC", "geodestino"]
+- ["8ArqmobWs5PlaceC", "id"]
+- ["8ArqmobWs5PlaceC", "imagenes"]
+- ["8ArqmobWs5PlaceC", "init"]
+- ["8ArqmobWs5PlaceC", "latitud"]
+- ["8ArqmobWs5PlaceC", "longitud"]
+- ["8ArqmobWs5PlaceC", "lugar"]
+- ["8ArqmobWs5PlaceC", "mapping"]
+- ["8ArqmobWs5PlaceC", "municipio"]
+- ["8ArqmobWs5PlaceC", "nombre"]
+- ["8ArqmobWs5PlaceC", "numero"]
+- ["8ArqmobWs5PlaceC", "parroquia"]
+- ["8ArqmobWs5PlaceC", "provincia"]
+- ["8ArqmobWs5PlaceC", "subgeodestino"]
+- ["8ArqmobWs5PlaceC", "telefono"]
+- ["8ArqmobWs5PlaceC", "tipo"]
+- ["8ArqmobWs5PlaceC", "uid"]
+- ["8ArqmobWs5PlaceC", "web"]
+- ["8ArqmobWs5PlaceC", "webTurgalicia"]
+- !private ["8ArqmobWs4TypeC", "deinit"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calidad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "categoria"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "codigoPostal"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "descripcion"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "distancia"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "email"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fax"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "geodestino"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "id"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imagenes"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "latitud"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "longitud"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lugar"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "mapping"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "municipio"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nombre"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "numero"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "parroquia"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "provincia"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subgeodestino"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "telefono"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tipo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "web"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "webTurgalicia"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "calidad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "calle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "categoria"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "codigoPostal"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "descripcion"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "distancia"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "email"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fax"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "geodestino"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "id"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "imagenes"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "latitud"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "longitud"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lugar"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mapping"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "municipio"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "nombre"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "numero"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "parroquia"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "provincia"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "subgeodestino"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "telefono"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tipo"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "uid"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "web"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "webTurgalicia"]
+depends-nominal:
+- "12ObjectMapper12BaseMappableP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- !private "8ArqmobWs6FamilyC"
+- "SH"
+- !private "12ObjectMapper3MapC"
+- "12ObjectMapper8MappableP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "8ArqmobWs5PlaceC"
+- !private "8ArqmobWs4TypeC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArqmobWs.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/build/ArqmobWs.build/Debug-iphonesimulator/ArqmobWs.build/unextended-module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e4fc2d1477e20dd73ddf25bf63fcfdfa"

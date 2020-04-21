@@ -1,0 +1,11 @@
+framework module ArqmobWs {
+  umbrella header "ArqmobWs.h"
+
+  export *
+  module * { export * }
+}
+
+module ArqmobWs.Swift {
+    header "ArqmobWs-Swift.h"
+    requires objc
+}

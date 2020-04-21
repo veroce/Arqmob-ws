@@ -1,0 +1,10 @@
+framework module ArqmobWs {
+  umbrella header "ArqmobWs.h"
+
+  export *
+  module * { export * }
+}
+
+module ArqmobWs.__Swift {
+    exclude header "ArqmobWs-Swift.h"
+}

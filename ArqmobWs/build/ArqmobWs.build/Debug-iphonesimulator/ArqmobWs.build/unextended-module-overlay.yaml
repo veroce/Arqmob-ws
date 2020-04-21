@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/vero/Library/Developer/Xcode/DerivedData/ArqmobWs-drrvgujhffwilldcibdafbxgaiec/Build/Products/Debug-iphonesimulator/ArqmobWs.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/build/ArqmobWs.build/Debug-iphonesimulator/ArqmobWs.build/unextended-module.modulemap",
+    }]
+  }]
+}

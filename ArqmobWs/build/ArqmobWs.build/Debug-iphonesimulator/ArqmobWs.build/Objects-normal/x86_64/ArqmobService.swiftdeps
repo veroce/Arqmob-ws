@@ -1,0 +1,436 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ArqmobService"
+provides-nominal:
+- "8ArqmobWs0A7ServiceC"
+provides-member:
+- ["8ArqmobWs0A7ServiceC", ""]
+provides-dynamic-lookup:
+- "getPlaces"
+- "getRouteDetail"
+- "getRouteProfile"
+- "getRoutes"
+- "getTypePlaces"
+- "shared"
+depends-top-level:
+- !private "+"
+- !private "=="
+- "ArqmobService"
+- "Array"
+- "AssignmentPrecedence"
+- !private "BaseRemote"
+- "ConstantsStatus"
+- !private "ConstantsUrl"
+- !private "ExtendedGraphemeClusterType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Location"
+- "NSObject"
+- "Place"
+- "Route"
+- "RouteDetail"
+- "RouteProfile"
+- !private "RouteResponse"
+- "String"
+- "StringLiteralType"
+- "Type"
+- !private "UnicodeScalarType"
+depends-member:
+- ["8ArqmobWs0A7ServiceC", "ArqmobService"]
+- ["8ArqmobWs0A7ServiceC", "Array"]
+- !private ["8ArqmobWs0A7ServiceC", "BaseRemote"]
+- ["8ArqmobWs0A7ServiceC", "ConstantsStatus"]
+- !private ["8ArqmobWs0A7ServiceC", "ConstantsUrl"]
+- ["8ArqmobWs0A7ServiceC", "Location"]
+- ["8ArqmobWs0A7ServiceC", "Place"]
+- ["8ArqmobWs0A7ServiceC", "Route"]
+- ["8ArqmobWs0A7ServiceC", "RouteDetail"]
+- ["8ArqmobWs0A7ServiceC", "RouteProfile"]
+- !private ["8ArqmobWs0A7ServiceC", "RouteResponse"]
+- ["8ArqmobWs0A7ServiceC", "String"]
+- ["8ArqmobWs0A7ServiceC", "Type"]
+- ["8ArqmobWs0A7ServiceC", "deinit"]
+- ["8ArqmobWs0A7ServiceC", "getPlaces"]
+- ["8ArqmobWs0A7ServiceC", "getRouteDetail"]
+- ["8ArqmobWs0A7ServiceC", "getRouteProfile"]
+- ["8ArqmobWs0A7ServiceC", "getRoutes"]
+- ["8ArqmobWs0A7ServiceC", "getTypePlaces"]
+- ["8ArqmobWs0A7ServiceC", "init"]
+- ["8ArqmobWs0A7ServiceC", "shared"]
+- !private ["12ObjectMapper12BaseMappableP", "items"]
+- !private ["12ObjectMapper12BaseMappableP", "latitud"]
+- !private ["12ObjectMapper12BaseMappableP", "longitud"]
+- !private ["8ArqmobWs10BaseRemoteC", "getArrayObjects"]
+- !private ["8ArqmobWs10BaseRemoteC", "getHeaders"]
+- !private ["8ArqmobWs10BaseRemoteC", "getObject"]
+- !private ["8ArqmobWs10BaseRemoteC", "init"]
+- !private ["SK", "last"]
+- !private ["SK", "removeLast"]
+- !private ["s7CVarArgP", "API_SENDEGAL_URL"]
+- !private ["s7CVarArgP", "API_TURISMO_URL"]
+- ["s7CVarArgP", "ArqmobService"]
+- !private ["s7CVarArgP", "BaseRemote"]
+- !private ["s7CVarArgP", "ConstantsUrl"]
+- !private ["s7CVarArgP", "SENDEGAL_GET_RUTAS"]
+- !private ["s7CVarArgP", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["s7CVarArgP", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["s7CVarArgP", "SERVER_URL"]
+- !private ["s7CVarArgP", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["s7CVarArgP", "TURISMO_GET_TIPOS"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "items"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s7CVarArgP", "latitud"]
+- !private ["s7CVarArgP", "longitud"]
+- !private ["s7CVarArgP", "removeLast"]
+- !private ["Sl", "last"]
+- !private ["Sl", "removeLast"]
+- !private ["SL", "last"]
+- !private ["SL", "removeLast"]
+- !private ["8ArqmobWs12ConstantsUrlC", "API_SENDEGAL_URL"]
+- !private ["8ArqmobWs12ConstantsUrlC", "API_TURISMO_URL"]
+- !private ["8ArqmobWs12ConstantsUrlC", "SENDEGAL_GET_RUTAS"]
+- !private ["8ArqmobWs12ConstantsUrlC", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["8ArqmobWs12ConstantsUrlC", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["8ArqmobWs12ConstantsUrlC", "SERVER_URL"]
+- !private ["8ArqmobWs12ConstantsUrlC", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["8ArqmobWs12ConstantsUrlC", "TURISMO_GET_TIPOS"]
+- !private ["s28CustomDebugStringConvertibleP", "API_SENDEGAL_URL"]
+- !private ["s28CustomDebugStringConvertibleP", "API_TURISMO_URL"]
+- ["s28CustomDebugStringConvertibleP", "ArqmobService"]
+- !private ["s28CustomDebugStringConvertibleP", "BaseRemote"]
+- !private ["s28CustomDebugStringConvertibleP", "ConstantsUrl"]
+- !private ["s28CustomDebugStringConvertibleP", "SENDEGAL_GET_RUTAS"]
+- !private ["s28CustomDebugStringConvertibleP", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["s28CustomDebugStringConvertibleP", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["s28CustomDebugStringConvertibleP", "SERVER_URL"]
+- !private ["s28CustomDebugStringConvertibleP", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["s28CustomDebugStringConvertibleP", "TURISMO_GET_TIPOS"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "items"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "latitud"]
+- !private ["s28CustomDebugStringConvertibleP", "longitud"]
+- !private ["s28CustomDebugStringConvertibleP", "removeLast"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s17CustomReflectableP", "removeLast"]
+- !private ["s23CustomStringConvertibleP", "API_SENDEGAL_URL"]
+- !private ["s23CustomStringConvertibleP", "API_TURISMO_URL"]
+- ["s23CustomStringConvertibleP", "ArqmobService"]
+- !private ["s23CustomStringConvertibleP", "BaseRemote"]
+- !private ["s23CustomStringConvertibleP", "ConstantsUrl"]
+- !private ["s23CustomStringConvertibleP", "SENDEGAL_GET_RUTAS"]
+- !private ["s23CustomStringConvertibleP", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["s23CustomStringConvertibleP", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["s23CustomStringConvertibleP", "SERVER_URL"]
+- !private ["s23CustomStringConvertibleP", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["s23CustomStringConvertibleP", "TURISMO_GET_TIPOS"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "items"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s23CustomStringConvertibleP", "latitud"]
+- !private ["s23CustomStringConvertibleP", "longitud"]
+- !private ["s23CustomStringConvertibleP", "removeLast"]
+- !private ["Se", "last"]
+- !private ["Se", "removeLast"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "last"]
+- !private ["SE", "removeLast"]
+- !private ["SQ", "API_SENDEGAL_URL"]
+- !private ["SQ", "API_TURISMO_URL"]
+- ["SQ", "ArqmobService"]
+- !private ["SQ", "BaseRemote"]
+- !private ["SQ", "ConstantsUrl"]
+- !private ["SQ", "SENDEGAL_GET_RUTAS"]
+- !private ["SQ", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["SQ", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["SQ", "SERVER_URL"]
+- !private ["SQ", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["SQ", "TURISMO_GET_TIPOS"]
+- ["SQ", ""]
+- ["SQ", "init"]
+- !private ["SQ", "items"]
+- !private ["SQ", "last"]
+- !private ["SQ", "latitud"]
+- !private ["SQ", "longitud"]
+- !private ["SQ", "removeLast"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "last"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "removeLast"]
+- !private ["s32ExpressibleByStringInterpolationP", "last"]
+- !private ["s32ExpressibleByStringInterpolationP", "removeLast"]
+- !private ["s26ExpressibleByStringLiteralP", "last"]
+- !private ["s26ExpressibleByStringLiteralP", "removeLast"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "last"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "removeLast"]
+- !private ["SH", "API_SENDEGAL_URL"]
+- !private ["SH", "API_TURISMO_URL"]
+- ["SH", "ArqmobService"]
+- !private ["SH", "BaseRemote"]
+- !private ["SH", "ConstantsUrl"]
+- !private ["SH", "SENDEGAL_GET_RUTAS"]
+- !private ["SH", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["SH", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["SH", "SERVER_URL"]
+- !private ["SH", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["SH", "TURISMO_GET_TIPOS"]
+- ["SH", ""]
+- ["SH", "init"]
+- !private ["SH", "items"]
+- !private ["SH", "last"]
+- !private ["SH", "latitud"]
+- !private ["SH", "longitud"]
+- !private ["SH", "removeLast"]
+- !private ["8ArqmobWs8LocationC", "latitud"]
+- !private ["8ArqmobWs8LocationC", "longitud"]
+- !private ["s25LosslessStringConvertibleP", "last"]
+- !private ["s25LosslessStringConvertibleP", "removeLast"]
+- !private ["12ObjectMapper8MappableP", "items"]
+- !private ["12ObjectMapper8MappableP", "latitud"]
+- !private ["12ObjectMapper8MappableP", "longitud"]
+- !private ["s10MirrorPathP", "last"]
+- !private ["s10MirrorPathP", "removeLast"]
+- !private ["So8NSCodingP", "last"]
+- !private ["So8NSCodingP", "removeLast"]
+- !private ["So9NSCopyingP", "last"]
+- !private ["So9NSCopyingP", "removeLast"]
+- !private ["So21NSItemProviderReadingP", "last"]
+- !private ["So21NSItemProviderReadingP", "removeLast"]
+- !private ["So21NSItemProviderWritingP", "last"]
+- !private ["So21NSItemProviderWritingP", "removeLast"]
+- !private ["So16NSMutableCopyingP", "last"]
+- !private ["So16NSMutableCopyingP", "removeLast"]
+- !private ["So8NSObjectC", "API_SENDEGAL_URL"]
+- !private ["So8NSObjectC", "API_TURISMO_URL"]
+- ["So8NSObjectC", "ArqmobService"]
+- ["So8NSObjectC", "Array"]
+- !private ["So8NSObjectC", "BaseRemote"]
+- ["So8NSObjectC", "ConstantsStatus"]
+- !private ["So8NSObjectC", "ConstantsUrl"]
+- ["So8NSObjectC", "Location"]
+- ["So8NSObjectC", "Place"]
+- ["So8NSObjectC", "Route"]
+- ["So8NSObjectC", "RouteDetail"]
+- ["So8NSObjectC", "RouteProfile"]
+- !private ["So8NSObjectC", "RouteResponse"]
+- !private ["So8NSObjectC", "SENDEGAL_GET_RUTAS"]
+- !private ["So8NSObjectC", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["So8NSObjectC", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["So8NSObjectC", "SERVER_URL"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["So8NSObjectC", "TURISMO_GET_TIPOS"]
+- ["So8NSObjectC", "Type"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "getPlaces"]
+- ["So8NSObjectC", "getRouteDetail"]
+- ["So8NSObjectC", "getRouteProfile"]
+- ["So8NSObjectC", "getRoutes"]
+- ["So8NSObjectC", "getTypePlaces"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "items"]
+- !private ["So8NSObjectC", "last"]
+- !private ["So8NSObjectC", "latitud"]
+- !private ["So8NSObjectC", "longitud"]
+- !private ["So8NSObjectC", "removeLast"]
+- ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectP", "API_SENDEGAL_URL"]
+- !private ["So8NSObjectP", "API_TURISMO_URL"]
+- ["So8NSObjectP", "ArqmobService"]
+- !private ["So8NSObjectP", "BaseRemote"]
+- !private ["So8NSObjectP", "ConstantsUrl"]
+- !private ["So8NSObjectP", "SENDEGAL_GET_RUTAS"]
+- !private ["So8NSObjectP", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["So8NSObjectP", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["So8NSObjectP", "SERVER_URL"]
+- !private ["So8NSObjectP", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["So8NSObjectP", "TURISMO_GET_TIPOS"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "items"]
+- !private ["So8NSObjectP", "last"]
+- !private ["So8NSObjectP", "latitud"]
+- !private ["So8NSObjectP", "longitud"]
+- !private ["So8NSObjectP", "removeLast"]
+- !private ["So14NSSecureCodingP", "last"]
+- !private ["So14NSSecureCodingP", "removeLast"]
+- !private ["So8NSStringC", "last"]
+- !private ["So8NSStringC", "removeLast"]
+- ["8ArqmobWs5PlaceC", "deinit"]
+- !private ["Sm", "last"]
+- !private ["Sm", "removeLast"]
+- ["8ArqmobWs11RouteDetailC", "deinit"]
+- ["8ArqmobWs12RouteProfileC", "deinit"]
+- ["8ArqmobWs13RouteResponseC", "deinit"]
+- !private ["8ArqmobWs13RouteResponseC", "items"]
+- !private ["ST", "last"]
+- !private ["ST", "removeLast"]
+- !private ["SS", "last"]
+- !private ["SS", "removeLast"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "last"]
+- !private ["Sy", "removeLast"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "last"]
+- !private ["s16TextOutputStreamP", "removeLast"]
+- !private ["s20TextOutputStreamableP", "last"]
+- !private ["s20TextOutputStreamableP", "removeLast"]
+- ["8ArqmobWs4TypeC", "deinit"]
+- !private ["9Alamofire14URLConvertibleP", "last"]
+- !private ["9Alamofire14URLConvertibleP", "removeLast"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "last"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "removeLast"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "last"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "removeLast"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "last"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "removeLast"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "last"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "removeLast"]
+- !private ["s19_HasContiguousBytesP", "last"]
+- !private ["s19_HasContiguousBytesP", "removeLast"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "last"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeLast"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "API_SENDEGAL_URL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "API_TURISMO_URL"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ArqmobService"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "BaseRemote"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ConstantsUrl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SENDEGAL_GET_RUTAS"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SERVER_URL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TURISMO_GET_TIPOS"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "items"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "last"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "latitud"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "longitud"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeLast"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "API_SENDEGAL_URL"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "API_TURISMO_URL"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ArqmobService"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "BaseRemote"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ConstantsUrl"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SENDEGAL_GET_RUTAS"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SENDEGAL_GET_RUTA_FICHA"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SENDEGAL_GET_RUTA_PERFIL"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SERVER_URL"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "TURISMO_GET_RECURSOS_BY_TIPO"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "TURISMO_GET_TIPOS"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "items"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "last"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "latitud"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "longitud"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "removeLast"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+- !private ["s21_ObjectiveCBridgeableP", "removeLast"]
+depends-nominal:
+- "8ArqmobWs0A7ServiceC"
+- !private "12ObjectMapper12BaseMappableP"
+- !private "8ArqmobWs10BaseRemoteC"
+- !private "SK"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "8ArqmobWs12ConstantsUrlC"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "8ArqmobWs8LocationC"
+- !private "s25LosslessStringConvertibleP"
+- !private "12ObjectMapper8MappableP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "8ArqmobWs5PlaceC"
+- !private "Sm"
+- "8ArqmobWs11RouteDetailC"
+- "8ArqmobWs12RouteProfileC"
+- "8ArqmobWs13RouteResponseC"
+- !private "ST"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "8ArqmobWs4TypeC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArqmobWs.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/build/ArqmobWs.build/Debug-iphonesimulator/ArqmobWs.build/unextended-module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5978a2b92753081fa8b10b16decf0e20"

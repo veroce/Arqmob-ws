@@ -1,0 +1,523 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RouteDetail"
+provides-nominal:
+- "8ArqmobWs11RouteDetailC"
+provides-member:
+- ["8ArqmobWs11RouteDetailC", ""]
+provides-dynamic-lookup:
+- "acccesoBicicleta"
+- "accesoCaballo"
+- "accesos"
+- "circular"
+- "codigo"
+- "conexiones"
+- "coordenadas"
+- "descripcion"
+- "desnivel"
+- "dificultad"
+- "distancia"
+- "distanciaInfo"
+- "duracion"
+- "fotos"
+- "interes"
+- "mapping"
+- "masInfo"
+- "material"
+- "mideDesplazamiento"
+- "mideEsfuerzo"
+- "mideItinerario"
+- "mideMedio"
+- "nid"
+- "nivelMar"
+- "perfilElevacion"
+- "puntoLlegada"
+- "puntoPartida"
+- "recorrido"
+- "servicios"
+- "titulo"
+- "urlFicha"
+- "urlKml"
+depends-top-level:
+- !private "<-"
+- "Array"
+- "Coordinates"
+- "Map"
+- "Mappable"
+- "NSObject"
+- "Photo"
+- "RouteDetail"
+- "String"
+- !private "StringLiteralType"
+- "Unevenness"
+depends-member:
+- ["12ObjectMapper12BaseMappableP", ""]
+- !private ["12ObjectMapper12BaseMappableP", "acccesoBicicleta"]
+- !private ["12ObjectMapper12BaseMappableP", "accesoCaballo"]
+- !private ["12ObjectMapper12BaseMappableP", "accesos"]
+- !private ["12ObjectMapper12BaseMappableP", "circular"]
+- !private ["12ObjectMapper12BaseMappableP", "codigo"]
+- !private ["12ObjectMapper12BaseMappableP", "conexiones"]
+- !private ["12ObjectMapper12BaseMappableP", "coordenadas"]
+- !private ["12ObjectMapper12BaseMappableP", "descripcion"]
+- !private ["12ObjectMapper12BaseMappableP", "desnivel"]
+- !private ["12ObjectMapper12BaseMappableP", "dificultad"]
+- !private ["12ObjectMapper12BaseMappableP", "distancia"]
+- !private ["12ObjectMapper12BaseMappableP", "distanciaInfo"]
+- !private ["12ObjectMapper12BaseMappableP", "duracion"]
+- !private ["12ObjectMapper12BaseMappableP", "fotos"]
+- ["12ObjectMapper12BaseMappableP", "init"]
+- !private ["12ObjectMapper12BaseMappableP", "interes"]
+- ["12ObjectMapper12BaseMappableP", "mapping"]
+- !private ["12ObjectMapper12BaseMappableP", "masInfo"]
+- !private ["12ObjectMapper12BaseMappableP", "material"]
+- !private ["12ObjectMapper12BaseMappableP", "mideDesplazamiento"]
+- !private ["12ObjectMapper12BaseMappableP", "mideEsfuerzo"]
+- !private ["12ObjectMapper12BaseMappableP", "mideItinerario"]
+- !private ["12ObjectMapper12BaseMappableP", "nid"]
+- !private ["12ObjectMapper12BaseMappableP", "nivelMar"]
+- !private ["12ObjectMapper12BaseMappableP", "perfilElevacion"]
+- !private ["12ObjectMapper12BaseMappableP", "puntoLlegada"]
+- !private ["12ObjectMapper12BaseMappableP", "puntoPartida"]
+- !private ["12ObjectMapper12BaseMappableP", "recorrido"]
+- !private ["12ObjectMapper12BaseMappableP", "servicios"]
+- !private ["12ObjectMapper12BaseMappableP", "titulo"]
+- !private ["12ObjectMapper12BaseMappableP", "urlFicha"]
+- !private ["12ObjectMapper12BaseMappableP", "urlKml"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "acccesoBicicleta"]
+- !private ["s7CVarArgP", "accesoCaballo"]
+- !private ["s7CVarArgP", "accesos"]
+- !private ["s7CVarArgP", "circular"]
+- !private ["s7CVarArgP", "codigo"]
+- !private ["s7CVarArgP", "conexiones"]
+- !private ["s7CVarArgP", "coordenadas"]
+- !private ["s7CVarArgP", "descripcion"]
+- !private ["s7CVarArgP", "desnivel"]
+- !private ["s7CVarArgP", "dificultad"]
+- !private ["s7CVarArgP", "distancia"]
+- !private ["s7CVarArgP", "distanciaInfo"]
+- !private ["s7CVarArgP", "duracion"]
+- !private ["s7CVarArgP", "fotos"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "interes"]
+- ["s7CVarArgP", "mapping"]
+- !private ["s7CVarArgP", "masInfo"]
+- !private ["s7CVarArgP", "material"]
+- !private ["s7CVarArgP", "mideDesplazamiento"]
+- !private ["s7CVarArgP", "mideEsfuerzo"]
+- !private ["s7CVarArgP", "mideItinerario"]
+- !private ["s7CVarArgP", "nid"]
+- !private ["s7CVarArgP", "nivelMar"]
+- !private ["s7CVarArgP", "perfilElevacion"]
+- !private ["s7CVarArgP", "puntoLlegada"]
+- !private ["s7CVarArgP", "puntoPartida"]
+- !private ["s7CVarArgP", "recorrido"]
+- !private ["s7CVarArgP", "servicios"]
+- !private ["s7CVarArgP", "titulo"]
+- !private ["s7CVarArgP", "urlFicha"]
+- !private ["s7CVarArgP", "urlKml"]
+- !private ["8ArqmobWs11CoordinatesC", "deinit"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "acccesoBicicleta"]
+- !private ["s28CustomDebugStringConvertibleP", "accesoCaballo"]
+- !private ["s28CustomDebugStringConvertibleP", "accesos"]
+- !private ["s28CustomDebugStringConvertibleP", "circular"]
+- !private ["s28CustomDebugStringConvertibleP", "codigo"]
+- !private ["s28CustomDebugStringConvertibleP", "conexiones"]
+- !private ["s28CustomDebugStringConvertibleP", "coordenadas"]
+- !private ["s28CustomDebugStringConvertibleP", "descripcion"]
+- !private ["s28CustomDebugStringConvertibleP", "desnivel"]
+- !private ["s28CustomDebugStringConvertibleP", "dificultad"]
+- !private ["s28CustomDebugStringConvertibleP", "distancia"]
+- !private ["s28CustomDebugStringConvertibleP", "distanciaInfo"]
+- !private ["s28CustomDebugStringConvertibleP", "duracion"]
+- !private ["s28CustomDebugStringConvertibleP", "fotos"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "interes"]
+- ["s28CustomDebugStringConvertibleP", "mapping"]
+- !private ["s28CustomDebugStringConvertibleP", "masInfo"]
+- !private ["s28CustomDebugStringConvertibleP", "material"]
+- !private ["s28CustomDebugStringConvertibleP", "mideDesplazamiento"]
+- !private ["s28CustomDebugStringConvertibleP", "mideEsfuerzo"]
+- !private ["s28CustomDebugStringConvertibleP", "mideItinerario"]
+- !private ["s28CustomDebugStringConvertibleP", "nid"]
+- !private ["s28CustomDebugStringConvertibleP", "nivelMar"]
+- !private ["s28CustomDebugStringConvertibleP", "perfilElevacion"]
+- !private ["s28CustomDebugStringConvertibleP", "puntoLlegada"]
+- !private ["s28CustomDebugStringConvertibleP", "puntoPartida"]
+- !private ["s28CustomDebugStringConvertibleP", "recorrido"]
+- !private ["s28CustomDebugStringConvertibleP", "servicios"]
+- !private ["s28CustomDebugStringConvertibleP", "titulo"]
+- !private ["s28CustomDebugStringConvertibleP", "urlFicha"]
+- !private ["s28CustomDebugStringConvertibleP", "urlKml"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "acccesoBicicleta"]
+- !private ["s23CustomStringConvertibleP", "accesoCaballo"]
+- !private ["s23CustomStringConvertibleP", "accesos"]
+- !private ["s23CustomStringConvertibleP", "circular"]
+- !private ["s23CustomStringConvertibleP", "codigo"]
+- !private ["s23CustomStringConvertibleP", "conexiones"]
+- !private ["s23CustomStringConvertibleP", "coordenadas"]
+- !private ["s23CustomStringConvertibleP", "descripcion"]
+- !private ["s23CustomStringConvertibleP", "desnivel"]
+- !private ["s23CustomStringConvertibleP", "dificultad"]
+- !private ["s23CustomStringConvertibleP", "distancia"]
+- !private ["s23CustomStringConvertibleP", "distanciaInfo"]
+- !private ["s23CustomStringConvertibleP", "duracion"]
+- !private ["s23CustomStringConvertibleP", "fotos"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "interes"]
+- ["s23CustomStringConvertibleP", "mapping"]
+- !private ["s23CustomStringConvertibleP", "masInfo"]
+- !private ["s23CustomStringConvertibleP", "material"]
+- !private ["s23CustomStringConvertibleP", "mideDesplazamiento"]
+- !private ["s23CustomStringConvertibleP", "mideEsfuerzo"]
+- !private ["s23CustomStringConvertibleP", "mideItinerario"]
+- !private ["s23CustomStringConvertibleP", "nid"]
+- !private ["s23CustomStringConvertibleP", "nivelMar"]
+- !private ["s23CustomStringConvertibleP", "perfilElevacion"]
+- !private ["s23CustomStringConvertibleP", "puntoLlegada"]
+- !private ["s23CustomStringConvertibleP", "puntoPartida"]
+- !private ["s23CustomStringConvertibleP", "recorrido"]
+- !private ["s23CustomStringConvertibleP", "servicios"]
+- !private ["s23CustomStringConvertibleP", "titulo"]
+- !private ["s23CustomStringConvertibleP", "urlFicha"]
+- !private ["s23CustomStringConvertibleP", "urlKml"]
+- ["SQ", ""]
+- !private ["SQ", "acccesoBicicleta"]
+- !private ["SQ", "accesoCaballo"]
+- !private ["SQ", "accesos"]
+- !private ["SQ", "circular"]
+- !private ["SQ", "codigo"]
+- !private ["SQ", "conexiones"]
+- !private ["SQ", "coordenadas"]
+- !private ["SQ", "descripcion"]
+- !private ["SQ", "desnivel"]
+- !private ["SQ", "dificultad"]
+- !private ["SQ", "distancia"]
+- !private ["SQ", "distanciaInfo"]
+- !private ["SQ", "duracion"]
+- !private ["SQ", "fotos"]
+- ["SQ", "init"]
+- !private ["SQ", "interes"]
+- ["SQ", "mapping"]
+- !private ["SQ", "masInfo"]
+- !private ["SQ", "material"]
+- !private ["SQ", "mideDesplazamiento"]
+- !private ["SQ", "mideEsfuerzo"]
+- !private ["SQ", "mideItinerario"]
+- !private ["SQ", "nid"]
+- !private ["SQ", "nivelMar"]
+- !private ["SQ", "perfilElevacion"]
+- !private ["SQ", "puntoLlegada"]
+- !private ["SQ", "puntoPartida"]
+- !private ["SQ", "recorrido"]
+- !private ["SQ", "servicios"]
+- !private ["SQ", "titulo"]
+- !private ["SQ", "urlFicha"]
+- !private ["SQ", "urlKml"]
+- ["SH", ""]
+- !private ["SH", "acccesoBicicleta"]
+- !private ["SH", "accesoCaballo"]
+- !private ["SH", "accesos"]
+- !private ["SH", "circular"]
+- !private ["SH", "codigo"]
+- !private ["SH", "conexiones"]
+- !private ["SH", "coordenadas"]
+- !private ["SH", "descripcion"]
+- !private ["SH", "desnivel"]
+- !private ["SH", "dificultad"]
+- !private ["SH", "distancia"]
+- !private ["SH", "distanciaInfo"]
+- !private ["SH", "duracion"]
+- !private ["SH", "fotos"]
+- ["SH", "init"]
+- !private ["SH", "interes"]
+- ["SH", "mapping"]
+- !private ["SH", "masInfo"]
+- !private ["SH", "material"]
+- !private ["SH", "mideDesplazamiento"]
+- !private ["SH", "mideEsfuerzo"]
+- !private ["SH", "mideItinerario"]
+- !private ["SH", "nid"]
+- !private ["SH", "nivelMar"]
+- !private ["SH", "perfilElevacion"]
+- !private ["SH", "puntoLlegada"]
+- !private ["SH", "puntoPartida"]
+- !private ["SH", "recorrido"]
+- !private ["SH", "servicios"]
+- !private ["SH", "titulo"]
+- !private ["SH", "urlFicha"]
+- !private ["SH", "urlKml"]
+- !private ["12ObjectMapper3MapC", "subscript"]
+- ["12ObjectMapper8MappableP", ""]
+- !private ["12ObjectMapper8MappableP", "acccesoBicicleta"]
+- !private ["12ObjectMapper8MappableP", "accesoCaballo"]
+- !private ["12ObjectMapper8MappableP", "accesos"]
+- !private ["12ObjectMapper8MappableP", "circular"]
+- !private ["12ObjectMapper8MappableP", "codigo"]
+- !private ["12ObjectMapper8MappableP", "conexiones"]
+- !private ["12ObjectMapper8MappableP", "coordenadas"]
+- !private ["12ObjectMapper8MappableP", "descripcion"]
+- !private ["12ObjectMapper8MappableP", "desnivel"]
+- !private ["12ObjectMapper8MappableP", "dificultad"]
+- !private ["12ObjectMapper8MappableP", "distancia"]
+- !private ["12ObjectMapper8MappableP", "distanciaInfo"]
+- !private ["12ObjectMapper8MappableP", "duracion"]
+- !private ["12ObjectMapper8MappableP", "fotos"]
+- ["12ObjectMapper8MappableP", "init"]
+- !private ["12ObjectMapper8MappableP", "interes"]
+- ["12ObjectMapper8MappableP", "mapping"]
+- !private ["12ObjectMapper8MappableP", "masInfo"]
+- !private ["12ObjectMapper8MappableP", "material"]
+- !private ["12ObjectMapper8MappableP", "mideDesplazamiento"]
+- !private ["12ObjectMapper8MappableP", "mideEsfuerzo"]
+- !private ["12ObjectMapper8MappableP", "mideItinerario"]
+- !private ["12ObjectMapper8MappableP", "nid"]
+- !private ["12ObjectMapper8MappableP", "nivelMar"]
+- !private ["12ObjectMapper8MappableP", "perfilElevacion"]
+- !private ["12ObjectMapper8MappableP", "puntoLlegada"]
+- !private ["12ObjectMapper8MappableP", "puntoPartida"]
+- !private ["12ObjectMapper8MappableP", "recorrido"]
+- !private ["12ObjectMapper8MappableP", "servicios"]
+- !private ["12ObjectMapper8MappableP", "titulo"]
+- !private ["12ObjectMapper8MappableP", "urlFicha"]
+- !private ["12ObjectMapper8MappableP", "urlKml"]
+- ["So8NSObjectC", "Array"]
+- ["So8NSObjectC", "Coordinates"]
+- ["So8NSObjectC", "Map"]
+- ["So8NSObjectC", "Photo"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "Unevenness"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "acccesoBicicleta"]
+- ["So8NSObjectC", "accesoCaballo"]
+- ["So8NSObjectC", "accesos"]
+- ["So8NSObjectC", "circular"]
+- ["So8NSObjectC", "codigo"]
+- ["So8NSObjectC", "conexiones"]
+- ["So8NSObjectC", "coordenadas"]
+- ["So8NSObjectC", "descripcion"]
+- ["So8NSObjectC", "desnivel"]
+- ["So8NSObjectC", "dificultad"]
+- ["So8NSObjectC", "distancia"]
+- ["So8NSObjectC", "distanciaInfo"]
+- ["So8NSObjectC", "duracion"]
+- ["So8NSObjectC", "fotos"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "interes"]
+- ["So8NSObjectC", "mapping"]
+- ["So8NSObjectC", "masInfo"]
+- ["So8NSObjectC", "material"]
+- ["So8NSObjectC", "mideDesplazamiento"]
+- ["So8NSObjectC", "mideEsfuerzo"]
+- ["So8NSObjectC", "mideItinerario"]
+- ["So8NSObjectC", "mideMedio"]
+- ["So8NSObjectC", "nid"]
+- ["So8NSObjectC", "nivelMar"]
+- ["So8NSObjectC", "perfilElevacion"]
+- ["So8NSObjectC", "puntoLlegada"]
+- ["So8NSObjectC", "puntoPartida"]
+- ["So8NSObjectC", "recorrido"]
+- ["So8NSObjectC", "servicios"]
+- ["So8NSObjectC", "titulo"]
+- ["So8NSObjectC", "urlFicha"]
+- ["So8NSObjectC", "urlKml"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "acccesoBicicleta"]
+- !private ["So8NSObjectP", "accesoCaballo"]
+- !private ["So8NSObjectP", "accesos"]
+- !private ["So8NSObjectP", "circular"]
+- !private ["So8NSObjectP", "codigo"]
+- !private ["So8NSObjectP", "conexiones"]
+- !private ["So8NSObjectP", "coordenadas"]
+- !private ["So8NSObjectP", "descripcion"]
+- !private ["So8NSObjectP", "desnivel"]
+- !private ["So8NSObjectP", "dificultad"]
+- !private ["So8NSObjectP", "distancia"]
+- !private ["So8NSObjectP", "distanciaInfo"]
+- !private ["So8NSObjectP", "duracion"]
+- !private ["So8NSObjectP", "fotos"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "interes"]
+- ["So8NSObjectP", "mapping"]
+- !private ["So8NSObjectP", "masInfo"]
+- !private ["So8NSObjectP", "material"]
+- !private ["So8NSObjectP", "mideDesplazamiento"]
+- !private ["So8NSObjectP", "mideEsfuerzo"]
+- !private ["So8NSObjectP", "mideItinerario"]
+- !private ["So8NSObjectP", "nid"]
+- !private ["So8NSObjectP", "nivelMar"]
+- !private ["So8NSObjectP", "perfilElevacion"]
+- !private ["So8NSObjectP", "puntoLlegada"]
+- !private ["So8NSObjectP", "puntoPartida"]
+- !private ["So8NSObjectP", "recorrido"]
+- !private ["So8NSObjectP", "servicios"]
+- !private ["So8NSObjectP", "titulo"]
+- !private ["So8NSObjectP", "urlFicha"]
+- !private ["So8NSObjectP", "urlKml"]
+- ["8ArqmobWs11RouteDetailC", "Array"]
+- ["8ArqmobWs11RouteDetailC", "Coordinates"]
+- ["8ArqmobWs11RouteDetailC", "Map"]
+- ["8ArqmobWs11RouteDetailC", "Photo"]
+- ["8ArqmobWs11RouteDetailC", "String"]
+- ["8ArqmobWs11RouteDetailC", "Unevenness"]
+- ["8ArqmobWs11RouteDetailC", "acccesoBicicleta"]
+- ["8ArqmobWs11RouteDetailC", "accesoCaballo"]
+- ["8ArqmobWs11RouteDetailC", "accesos"]
+- ["8ArqmobWs11RouteDetailC", "circular"]
+- ["8ArqmobWs11RouteDetailC", "codigo"]
+- ["8ArqmobWs11RouteDetailC", "conexiones"]
+- ["8ArqmobWs11RouteDetailC", "coordenadas"]
+- ["8ArqmobWs11RouteDetailC", "deinit"]
+- ["8ArqmobWs11RouteDetailC", "descripcion"]
+- ["8ArqmobWs11RouteDetailC", "desnivel"]
+- ["8ArqmobWs11RouteDetailC", "dificultad"]
+- ["8ArqmobWs11RouteDetailC", "distancia"]
+- ["8ArqmobWs11RouteDetailC", "distanciaInfo"]
+- ["8ArqmobWs11RouteDetailC", "duracion"]
+- ["8ArqmobWs11RouteDetailC", "fotos"]
+- ["8ArqmobWs11RouteDetailC", "init"]
+- ["8ArqmobWs11RouteDetailC", "interes"]
+- ["8ArqmobWs11RouteDetailC", "mapping"]
+- ["8ArqmobWs11RouteDetailC", "masInfo"]
+- ["8ArqmobWs11RouteDetailC", "material"]
+- ["8ArqmobWs11RouteDetailC", "mideDesplazamiento"]
+- ["8ArqmobWs11RouteDetailC", "mideEsfuerzo"]
+- ["8ArqmobWs11RouteDetailC", "mideItinerario"]
+- ["8ArqmobWs11RouteDetailC", "mideMedio"]
+- ["8ArqmobWs11RouteDetailC", "nid"]
+- ["8ArqmobWs11RouteDetailC", "nivelMar"]
+- ["8ArqmobWs11RouteDetailC", "perfilElevacion"]
+- ["8ArqmobWs11RouteDetailC", "puntoLlegada"]
+- ["8ArqmobWs11RouteDetailC", "puntoPartida"]
+- ["8ArqmobWs11RouteDetailC", "recorrido"]
+- ["8ArqmobWs11RouteDetailC", "servicios"]
+- ["8ArqmobWs11RouteDetailC", "titulo"]
+- ["8ArqmobWs11RouteDetailC", "urlFicha"]
+- ["8ArqmobWs11RouteDetailC", "urlKml"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "acccesoBicicleta"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "accesoCaballo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "accesos"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "circular"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "codigo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "conexiones"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "coordenadas"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "descripcion"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "desnivel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dificultad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "distancia"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "distanciaInfo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "duracion"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fotos"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "interes"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "mapping"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "masInfo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "material"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mideDesplazamiento"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mideEsfuerzo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mideItinerario"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nivelMar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "perfilElevacion"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "puntoLlegada"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "puntoPartida"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "recorrido"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "servicios"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titulo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "urlFicha"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "urlKml"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "acccesoBicicleta"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "accesoCaballo"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "accesos"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "circular"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "codigo"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "conexiones"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "coordenadas"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "descripcion"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "desnivel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dificultad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "distancia"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "distanciaInfo"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "duracion"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fotos"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "interes"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mapping"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "masInfo"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "material"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mideDesplazamiento"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mideEsfuerzo"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mideItinerario"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "nid"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "nivelMar"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "perfilElevacion"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "puntoLlegada"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "puntoPartida"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "recorrido"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "servicios"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "titulo"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "urlFicha"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "urlKml"]
+depends-nominal:
+- "12ObjectMapper12BaseMappableP"
+- "s7CVarArgP"
+- !private "8ArqmobWs11CoordinatesC"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "12ObjectMapper3MapC"
+- "12ObjectMapper8MappableP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "8ArqmobWs11RouteDetailC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArqmobWs.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/build/ArqmobWs.build/Debug-iphonesimulator/ArqmobWs.build/unextended-module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/Alamofire.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/vero/Proyecto/six/arquetipo/arqmob-ws-ios/arqmob-ws-ios/ArqmobWs/ArqmobWs/ArmobWs-framework/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ef9f374128c43167b040d0b3ce6e8942"
